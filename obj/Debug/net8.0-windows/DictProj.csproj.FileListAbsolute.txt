@@ -1,0 +1,16 @@
+C:\Users\julur\source\repos\DD\DD\bin\Debug\net8.0-windows\DictProj.exe
+C:\Users\julur\source\repos\DD\DD\bin\Debug\net8.0-windows\DictProj.deps.json
+C:\Users\julur\source\repos\DD\DD\bin\Debug\net8.0-windows\DictProj.runtimeconfig.json
+C:\Users\julur\source\repos\DD\DD\bin\Debug\net8.0-windows\DictProj.dll
+C:\Users\julur\source\repos\DD\DD\bin\Debug\net8.0-windows\DictProj.pdb
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\DD.Form1.resources
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\DictProj.csproj.GenerateResource.cache
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\DictProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\DictProj.AssemblyInfoInputs.cache
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\DictProj.AssemblyInfo.cs
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\DictProj.csproj.CoreCompileInputs.cache
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\DictProj.dll
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\refint\DictProj.dll
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\DictProj.pdb
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\DictProj.genruntimeconfig.cache
+C:\Users\julur\source\repos\DD\DD\obj\Debug\net8.0-windows\ref\DictProj.dll
